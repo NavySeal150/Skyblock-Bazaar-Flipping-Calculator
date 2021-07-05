@@ -1,8 +1,8 @@
 // Static defines
 var DOMAIN = "https://api.hypixel.net";
 // INSERT YOUR KEY HERE - OBTAIN BY RUNNING THE /api COMMAND ON HYPIXEL
-var KEY = "7a55e11f-9484-4773-af11-69295c39157c";
-var MAX_QUANTITY_PER_ORDER = 71680;
+var KEY = "e80ab17d-5057-47c1-a0a3-268806254869";
+var MAX_QUANTITY_PER_ORDER = 10000;
 var ITEM_NAMES_LOOKUP = new Map();
 
 // Global data storage
